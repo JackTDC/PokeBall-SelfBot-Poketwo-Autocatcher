@@ -1,11 +1,11 @@
 {
-   "token": "",
+   "token": "ODU1MDI5MTI5MjUzNzQ4Nzc2.YMsh7g.0wUvCzHU_iPqN2BJy-ZYR4VsAdw",
    "command_prefix": "P^",
    "priority": [
       "Groudon",
 	  "Mew",
       "Machop",
-      "Staryu"
+      "Eevee"
    ],
    "avoid": [],
    "catch_rate": 90,
@@ -20,6 +20,6 @@
    "autolog": true,
    "update_checker": true,
    "auto_update": true,
-   "autocatcher": false,
+   "autocatcher": true,
    "priority_only": false
 }
